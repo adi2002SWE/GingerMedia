@@ -1,0 +1,27 @@
+.Nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    border-radius: 10px;
+    height: 60px;
+  }
+  .Nav-cont {
+    margin: 0 15px;
+  }
+  .Nav-cont a {
+    color: #fff;
+    text-decoration: none;
+    
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .Nav-cont a:hover {
+    color: #0b0b0b;
+    background-color: #f9e287;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  
